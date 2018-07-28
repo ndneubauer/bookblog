@@ -1,0 +1,86 @@
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\BookBlog\bin\Debug\netcoreapp2.1\BookBlog.deps.json
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\BookBlog\bin\Debug\netcoreapp2.1\BookBlog.runtimeconfig.json
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\BookBlog\bin\Debug\netcoreapp2.1\BookBlog.runtimeconfig.dev.json
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\BookBlog\bin\Debug\netcoreapp2.1\BookBlog.dll
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\BookBlog\bin\Debug\netcoreapp2.1\BookBlog.pdb
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\BookBlog\bin\Debug\netcoreapp2.1\BookBlog.Views.dll
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\BookBlog\bin\Debug\netcoreapp2.1\BookBlog.Views.pdb
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\Temp\netcoreapp2.1\BookBlog.csproj.CoreCompileInputs.cache
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\Temp\netcoreapp2.1\BookBlog.RazorAssemblyInfo.cache
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\Temp\netcoreapp2.1\BookBlog.RazorAssemblyInfo.cs
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\Temp\netcoreapp2.1\BookBlog.AssemblyInfoInputs.cache
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\Temp\netcoreapp2.1\BookBlog.AssemblyInfo.cs
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\Temp\netcoreapp2.1\BookBlog.TagHelpers.input.cache
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\Temp\netcoreapp2.1\BookBlog.TagHelpers.output.cache
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\Temp\netcoreapp2.1\BookBlog.RazorCoreGenerate.cache
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\Temp\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\Temp\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\Temp\netcoreapp2.1\BookBlog.RazorTargetAssemblyInfo.cache
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\Temp\netcoreapp2.1\BookBlog.RazorTargetAssemblyInfo.cs
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\Temp\netcoreapp2.1\BookBlog.Views.pdb
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\Temp\netcoreapp2.1\BookBlog.dll
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\Temp\netcoreapp2.1\BookBlog.pdb
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\Temp\netcoreapp2.1\BookBlog.csproj.CopyComplete
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\BookBlog\bin\Release\netcoreapp2.1\BookBlog.deps.json
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\BookBlog\bin\Release\netcoreapp2.1\BookBlog.runtimeconfig.json
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\BookBlog\bin\Release\netcoreapp2.1\BookBlog.runtimeconfig.dev.json
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\BookBlog\bin\Release\netcoreapp2.1\BookBlog.dll
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\BookBlog\bin\Release\netcoreapp2.1\BookBlog.pdb
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\BookBlog\bin\Release\netcoreapp2.1\BookBlog.Views.dll
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\BookBlog\bin\Release\netcoreapp2.1\BookBlog.Views.pdb
+e:\My Files\My Documents\Visual Studio 2017\Projects\BookBlog\Temp\netcoreapp2.1\BookBlog.csprojAssemblyReference.cache
+E:\My Files\My Documents\BookBlog\BookBlog\bin\Debug\netcoreapp2.1\BookBlog.deps.json
+E:\My Files\My Documents\BookBlog\BookBlog\bin\Debug\netcoreapp2.1\BookBlog.runtimeconfig.json
+E:\My Files\My Documents\BookBlog\BookBlog\bin\Debug\netcoreapp2.1\BookBlog.runtimeconfig.dev.json
+E:\My Files\My Documents\BookBlog\BookBlog\bin\Debug\netcoreapp2.1\BookBlog.dll
+E:\My Files\My Documents\BookBlog\BookBlog\bin\Debug\netcoreapp2.1\BookBlog.pdb
+E:\My Files\My Documents\BookBlog\BookBlog\bin\Debug\netcoreapp2.1\BookBlog.Views.dll
+E:\My Files\My Documents\BookBlog\BookBlog\bin\Debug\netcoreapp2.1\BookBlog.Views.pdb
+E:\My Files\My Documents\BookBlog\Temp\netcoreapp2.1\BookBlog.csprojAssemblyReference.cache
+E:\My Files\My Documents\BookBlog\Temp\netcoreapp2.1\BookBlog.csproj.CoreCompileInputs.cache
+E:\My Files\My Documents\BookBlog\Temp\netcoreapp2.1\BookBlog.RazorAssemblyInfo.cache
+E:\My Files\My Documents\BookBlog\Temp\netcoreapp2.1\BookBlog.RazorAssemblyInfo.cs
+E:\My Files\My Documents\BookBlog\Temp\netcoreapp2.1\BookBlog.AssemblyInfoInputs.cache
+E:\My Files\My Documents\BookBlog\Temp\netcoreapp2.1\BookBlog.AssemblyInfo.cs
+E:\My Files\My Documents\BookBlog\Temp\netcoreapp2.1\BookBlog.TagHelpers.input.cache
+E:\My Files\My Documents\BookBlog\Temp\netcoreapp2.1\BookBlog.TagHelpers.output.cache
+E:\My Files\My Documents\BookBlog\Temp\netcoreapp2.1\BookBlog.RazorCoreGenerate.cache
+E:\My Files\My Documents\BookBlog\Temp\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+E:\My Files\My Documents\BookBlog\Temp\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+E:\My Files\My Documents\BookBlog\Temp\netcoreapp2.1\BookBlog.RazorTargetAssemblyInfo.cache
+E:\My Files\My Documents\BookBlog\Temp\netcoreapp2.1\BookBlog.RazorTargetAssemblyInfo.cs
+E:\My Files\My Documents\BookBlog\Temp\netcoreapp2.1\BookBlog.Views.pdb
+E:\My Files\My Documents\BookBlog\Temp\netcoreapp2.1\BookBlog.dll
+E:\My Files\My Documents\BookBlog\Temp\netcoreapp2.1\BookBlog.pdb
+E:\My Files\My Documents\BookBlog\Temp\netcoreapp2.1\BookBlog.csproj.CopyComplete
+E:\bb\bb\bin\Debug\netcoreapp2.1\BookBlog.deps.json
+E:\bb\bb\bin\Debug\netcoreapp2.1\BookBlog.runtimeconfig.json
+E:\bb\bb\bin\Debug\netcoreapp2.1\BookBlog.runtimeconfig.dev.json
+E:\bb\bb\bin\Debug\netcoreapp2.1\BookBlog.dll
+E:\bb\bb\bin\Debug\netcoreapp2.1\BookBlog.pdb
+E:\bb\bb\bin\Debug\netcoreapp2.1\BookBlog.Views.dll
+E:\bb\bb\bin\Debug\netcoreapp2.1\BookBlog.Views.pdb
+E:\bb\Temp\netcoreapp2.1\BookBlog.csprojAssemblyReference.cache
+E:\bb\Temp\netcoreapp2.1\BookBlog.csproj.CoreCompileInputs.cache
+E:\bb\Temp\netcoreapp2.1\BookBlog.RazorAssemblyInfo.cache
+E:\bb\Temp\netcoreapp2.1\BookBlog.RazorAssemblyInfo.cs
+E:\bb\Temp\netcoreapp2.1\BookBlog.AssemblyInfoInputs.cache
+E:\bb\Temp\netcoreapp2.1\BookBlog.AssemblyInfo.cs
+E:\bb\Temp\netcoreapp2.1\BookBlog.TagHelpers.input.cache
+E:\bb\Temp\netcoreapp2.1\BookBlog.TagHelpers.output.cache
+E:\bb\Temp\netcoreapp2.1\BookBlog.RazorCoreGenerate.cache
+E:\bb\Temp\netcoreapp2.1\Razor\Pages\Error.g.cshtml.cs
+E:\bb\Temp\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+E:\bb\Temp\netcoreapp2.1\BookBlog.RazorTargetAssemblyInfo.cache
+E:\bb\Temp\netcoreapp2.1\BookBlog.RazorTargetAssemblyInfo.cs
+E:\bb\Temp\netcoreapp2.1\BookBlog.Views.pdb
+E:\bb\Temp\netcoreapp2.1\BookBlog.dll
+E:\bb\Temp\netcoreapp2.1\BookBlog.pdb
+E:\bb\Temp\netcoreapp2.1\BookBlog.csproj.CopyComplete
+E:\bb\bb\bin\Release\netcoreapp2.1\BookBlog.deps.json
+E:\bb\bb\bin\Release\netcoreapp2.1\BookBlog.runtimeconfig.json
+E:\bb\bb\bin\Release\netcoreapp2.1\BookBlog.runtimeconfig.dev.json
+E:\bb\bb\bin\Release\netcoreapp2.1\BookBlog.dll
+E:\bb\bb\bin\Release\netcoreapp2.1\BookBlog.pdb
+E:\bb\bb\bin\Release\netcoreapp2.1\BookBlog.Views.dll
+E:\bb\bb\bin\Release\netcoreapp2.1\BookBlog.Views.pdb
