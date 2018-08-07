@@ -60,7 +60,6 @@ E:\bb\bb\bin\Debug\netcoreapp2.1\BookBlog.dll
 E:\bb\bb\bin\Debug\netcoreapp2.1\BookBlog.pdb
 E:\bb\bb\bin\Debug\netcoreapp2.1\BookBlog.Views.dll
 E:\bb\bb\bin\Debug\netcoreapp2.1\BookBlog.Views.pdb
-E:\bb\Temp\netcoreapp2.1\BookBlog.csprojAssemblyReference.cache
 E:\bb\Temp\netcoreapp2.1\BookBlog.csproj.CoreCompileInputs.cache
 E:\bb\Temp\netcoreapp2.1\BookBlog.RazorAssemblyInfo.cache
 E:\bb\Temp\netcoreapp2.1\BookBlog.RazorAssemblyInfo.cs
@@ -84,3 +83,4 @@ E:\bb\bb\bin\Release\netcoreapp2.1\BookBlog.dll
 E:\bb\bb\bin\Release\netcoreapp2.1\BookBlog.pdb
 E:\bb\bb\bin\Release\netcoreapp2.1\BookBlog.Views.dll
 E:\bb\bb\bin\Release\netcoreapp2.1\BookBlog.Views.pdb
+E:\bb\Temp\netcoreapp2.1\BookBlog.csprojAssemblyReference.cache

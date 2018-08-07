@@ -1,0 +1,15 @@
+<div *ngIf="blogEntries && blogEntries.length">
+  <div *ngFor="let blogEntry of blogEntries">
+    <table>
+      <tbody>
+      <tr>
+        <td>{{blogEntry.Date}}</td>
+        <td>
+          <h1>{{blogEntry.Heading}}</h1>
+          <div>Posted at {{blogEntry.PostedAt}} by {{blogEntry.PostedBy}}</div>
+        </td>
+      </tr>
+      </tbody>
+    </table>
+  </div>
+</div>
