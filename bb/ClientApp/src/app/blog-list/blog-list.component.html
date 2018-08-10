@@ -1,12 +1,35 @@
 <div *ngIf="blogEntries && blogEntries.length">
   <div *ngFor="let blogEntry of blogEntries">
     <table>
+      <thead>
+      <tr>
+        <th style="width: 100px;"></th>
+        <th></th>
+      </tr>
+      </thead>
       <tbody>
       <tr>
         <td>{{blogEntry.Date}}</td>
         <td>
-          <h1>{{blogEntry.Heading}}</h1>
-          <div>Posted at {{blogEntry.PostedAt}} by {{blogEntry.PostedBy}}</div>
+          <h2>{{blogEntry.Heading}}</h2>
+          <small>Posted at <strong>{{blogEntry.PostedAt}}</strong> by <strong>{{blogEntry.PostedBy}}</strong></small>
+        </td>
+      </tr>
+      <tr>
+        <td></td>
+        <td>
+          <table>
+            <tbody>
+            <tr>
+              <td>
+                <p [innerHTML]="blogEntry.ContentHTML" style="margin-top: 10px;"></p>
+              </td>
+            </tr>
+            <tr>
+              <td><small><strong>{{blogEntry.NumComments}}</strong> Comments | Posted in <strong>{{blogEntry.Categories}}</strong></small></td>
+            </tr>
+            </tbody>
+          </table>
         </td>
       </tr>
       </tbody>
