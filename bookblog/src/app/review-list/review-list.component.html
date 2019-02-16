@@ -1,0 +1,17 @@
+<div *ngFor="let review of reviews">
+    <div style="padding: 20px; border: 1px solid gray; margin-bottom: 10px;">
+        <h1><a routerLink="/review/{{review.ReviewId}}">{{review.BookTitle}}</a><span> by {{review.BookAuthor}}</span></h1>
+        <div style="display: flex;">
+            <p style="flex: 1; font-size: 1.2rem;">{{review.Summary}}</p>
+            <img src={{review.ImageUrl}} alt="Image for {{review.BookTitle}}" style="flex-basis: 100px;">
+        </div>
+        <div style="display: flex;">
+            <div style="flex: 1;">
+                <a routerLink="/review/{{review.ReviewId}}" mat-flat-button color="primary">read the review</a>
+            </div>
+            <div style="flex: 1; line-height: 36px;">
+                review written by {{review.ReviewAuthor}} on {{review.ReviewDate}}
+            </div>
+        </div>
+    </div>
+</div>
