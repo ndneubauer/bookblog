@@ -7,6 +7,8 @@ import { AppComponent } from './app.component';
 import { MaterialModule } from './modules/material.module';
 import { ReviewFullComponent } from './review-full/review-full.component';
 import { ReviewListComponent } from './review-list/review-list.component';
+import { HttpClientModule } from '@angular/common/http';
+import { ApiService } from './services/api.service';
 
 @NgModule({
   declarations: [
@@ -17,9 +19,10 @@ import { ReviewListComponent } from './review-list/review-list.component';
   imports: [
     BrowserModule,
     AppRoutingModule,
-    MaterialModule
+    MaterialModule,
+    HttpClientModule
   ],
-  providers: [],
+  providers: [ApiService],
   bootstrap: [AppComponent]
 })
 export class AppModule { }
