@@ -1,4 +1,4 @@
-<div *ngFor="let review of reviews$ | async">
+<div *ngFor="let review of reviews">
     <div style="padding: 20px; border: 1px solid gray; margin-bottom: 10px;">
         <h1><a routerLink="/review/{{review.ReviewId}}">{{review.BookTitle}}</a><span> by {{review.BookAuthor}}</span></h1>
         <div style="display: flex;">

@@ -9,11 +9,13 @@ import { Observable } from 'rxjs';
   styleUrls: ['./review-list.component.less']
 })
 export class ReviewListComponent implements OnInit {
-  public reviews$: Observable<Review[]>;
+  public reviews: Review[];
 
   constructor(private apiService: ApiService) {}
 
   ngOnInit(): void {
-    this.reviews$ = this.apiService.getReviews();
+    this.apiService.getReviews().subscribe(data => {
+      this.reviews = data;
+    });
   }
 }
