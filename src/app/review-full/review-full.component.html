@@ -1,14 +1,14 @@
 <div *ngIf="review$ | async as review">
   <div style="display: flex;">
     <div style="flex: 1; padding-right: 20px;">
-        <h1>{{review.BookTitle}} by {{review.BookAuthor}}</h1>  
-        <div>a review by {{review.ReviewAuthor}}, in the genre(s) Science Fiction, Dystopian.  Book published by Mulholland Books in January 2019</div>
+        <h1>{{review.bookTitle}} by {{review.bookAuthor}}</h1>  
+        <div>a review by {{review.reviewAuthor}}, in the genre(s) Science Fiction, Dystopian.  Book published by Mulholland Books in January 2019</div>
         <p>
-          {{review.Summary}}
+          {{review.summary}}
         </p>
     </div>
     <div style="flex-basis: 30%">
-      <img src="{{review.ImageUrl}}" alt="Cover for {{review.BookTitle}}">
+      <img src="{{review.imageUrl}}" alt="Cover for {{review.bookTitle}}">
     </div>
   </div>
 </div>
