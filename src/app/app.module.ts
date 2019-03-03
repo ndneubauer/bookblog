@@ -9,18 +9,20 @@ import { ReviewFullComponent } from './review-full/review-full.component';
 import { ReviewListComponent } from './review-list/review-list.component';
 import { HttpClientModule } from '@angular/common/http';
 import { ApiService } from './services/api.service';
+import { FlexLayoutModule } from '@angular/flex-layout';
 
 @NgModule({
   declarations: [
     AppComponent,
     ReviewFullComponent,
-    ReviewListComponent
+    ReviewListComponent,
   ],
   imports: [
     BrowserModule,
     AppRoutingModule,
     MaterialModule,
-    HttpClientModule
+    HttpClientModule,
+    FlexLayoutModule
   ],
   providers: [ApiService],
   bootstrap: [AppComponent]

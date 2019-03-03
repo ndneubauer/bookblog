@@ -1,1 +1,11 @@
-<router-outlet></router-outlet>
+<mat-toolbar>
+    <span><a class="header" href="/">SCI FI Book Blog</a></span>
+    <span class="example-fill-remaining-space"></span>
+    <span><a class="header" href="/">About</a></span>
+</mat-toolbar>
+
+<div fxLayout="row" fxLayoutAlign="space-between">
+    <div [fxFlex]="25">Left</div>
+    <div [fxFlex]="50"><router-outlet></router-outlet></div>
+    <div [fxFlex]="25">Right</div>
+</div>
