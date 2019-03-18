@@ -1,9 +1,10 @@
 import { Injectable } from '@angular/core';
-import { HttpClient, HttpErrorResponse } from '@angular/common/http';
-import { Review, ReviewResponse } from '../models/review';
-import { Observable, of, throwError } from 'rxjs';
-import { map, catchError } from 'rxjs/operators';
+import { HttpClient } from '@angular/common/http';
+import { ReviewResponse } from '../models/review';
+import { Observable } from 'rxjs';
+import { map } from 'rxjs/operators';
 import { ConfigService } from './config.service';
+import { FeaturedReviewResponse } from '../models/featuredReview';
 
 // tslint:disable: max-line-length
 
@@ -20,5 +21,9 @@ export class ApiService {
         return this.getReviews().pipe(
             map((response: ReviewResponse) => response.data.find(review => review.reviewId === +id))
           );
+    }
+
+    getFeaturedReviews() : Observable<FeaturedReviewResponse> {
+        return this.http.get<FeaturedReviewResponse>(`${this.configService.ApiUrl}api/reviews/featured`);
     }
 }

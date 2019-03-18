@@ -1,5 +1,3 @@
-// tslint:disable: no-shadowed-variable
-
 import { ResponseMessage, Documentation } from './response';
 
 export class Review {

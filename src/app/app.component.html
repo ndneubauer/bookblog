@@ -4,8 +4,20 @@
     <span><a class="header" href="/">About</a></span>
 </mat-toolbar>
 
-<div fxLayout="row" fxLayoutAlign="space-between">
-    <div [fxFlex]="25">Left</div>
-    <div [fxFlex]="50"><router-outlet></router-outlet></div>
-    <div [fxFlex]="25">Right</div>
+<div fxLayout.lt-lg="column" fxLayout.gt-md="row" fxLayoutAlign="space-between">
+    <div [fxFlex.lt-lg]="33" [fxFlex.gt-md]="10">
+        <h1 class="header">Featured reviews</h1>
+        <div fxLayout.lt-lg="row" fxLayout.gt-md="column" fxLayoutAlign="space-between">
+            <div [fxFlex] *ngFor="let review of featuredReviews">
+                <a routerLink="/review/{{review.reviewId}}">
+                    <img src="{{review.imageUrl}}" title="{{review.bookTitle}} by {{review.bookAuthor}}">
+                </a>
+            </div>
+        </div>
+    </div>
+    <div [fxFlex.lt-lg]="33" [fxFlex.gt-md]="60">
+        <h1 class="header">Latest news & reviews</h1>
+        <router-outlet></router-outlet>
+    </div>
+    <div [fxFlex.lt-lg]="33" [fxFlex.gt-md]="30">right</div>
 </div>
